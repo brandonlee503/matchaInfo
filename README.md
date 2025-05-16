@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="256" height="256" src="icon.png">
+</p>
+
 # matcha
 
 matcha prevents your Mac from going to sleep.
