@@ -4,7 +4,7 @@ matcha prevents your Mac from going to sleep.
 
 ### Support
 
-For any support or issues regarding Apricot, please open a thread [here](https://github.com/brandonlee503/matchaInfo/issues).
+For any support or issues regarding matcha, please open a thread [here](https://github.com/brandonlee503/matchaInfo/issues).
 
 ### Privacy
 
