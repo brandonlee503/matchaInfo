@@ -8,7 +8,7 @@ matcha prevents your Mac from going to sleep.
 
 ### Support
 
-For any support or issues regarding matcha, please open a thread [here](https://github.com/brandonlee503/matchaInfo/issues).
+For any support or issues regarding matcha, please open a thread [here](https://github.com/brandonlee503/matchaInfo/issues) or reach out to declutterappextension@gmail.com
 
 ### Privacy
 
